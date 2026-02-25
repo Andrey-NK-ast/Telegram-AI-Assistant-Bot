@@ -1,0 +1,6 @@
+openai
+python-telegram-bot==20.6
+python-dotenv
+langchain
+langchain-core
+langchain-gigachat
