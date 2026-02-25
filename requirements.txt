@@ -4,3 +4,4 @@ python-dotenv
 langchain
 langchain-core
 langchain-gigachat
+langfuse
